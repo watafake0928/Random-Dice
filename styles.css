@@ -41,8 +41,6 @@ footer {
 }
 
 button {
-  margin-left: 358px;
-  margin-top: 20px;
   padding: auto;
   width: 100px;
   height: 30px;
@@ -52,4 +50,10 @@ button {
   background-color: #4ECCA3;
   border-color: #4ECCA3 ;
   border-radius: 10px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
 }
